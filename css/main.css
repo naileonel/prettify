@@ -1,0 +1,93 @@
+/* IMAGEN PRINCIPAL */
+header{
+	background-image:url("../images/tile1.png");
+	background-size: 100%; 
+}
+#info{
+	background-image:url("../images/background.jpg");
+	background-size:100%; 
+	background-repeat: no-repeat;
+	padding-bottom:13%;
+}
+/* MENU */
+nav ul{
+	list-style-type:none;
+	padding-top:34px;
+	margin: 0 -15px 0 0;
+	font-size:14px;
+	line-height:14px;
+	text-transform:uppercase;
+	white-space:nowrap;
+}
+nav li{
+	display: inline-block;
+	position:relative;
+	padding: 2px;
+	margin- left: 30px;
+	margin-right: 30px;
+}
+nav{
+	text-decoration: none;
+	padding: 10px; 
+	color: #eee;
+	text-shadow:2px 2px 4px #000;
+	color:#fff;
+	margin-left:300px;
+}
+a{
+	color:black;
+	text-decoration: none;
+}
+.logo{
+     margin-top:5%;
+     margin-left:400px;
+	 height: 100px;
+}
+h1{
+   margin-left: 370px;
+   color: white;
+}
+h2{
+   margin-left: 380px;
+   font-size: 18px;
+   color:white;
+}
+/* section me */
+h3{
+	color:#FE2EF7;
+	margin-left:45%; 
+	margin-top:5%;
+	font-size: 25px;
+}
+.profile{
+     margin-top:5%;
+     margin-left:35%;
+     height:200px;
+	 border: 1px solid #000000;
+}
+p{
+  margin-top:15px;
+}
+/* section cat */
+.tex{
+	color:#FE2EF7;
+	margin-left:40%; 
+	margin-top:5%;
+	font-size:25px;
+}
+h4{
+	color:#FE2EF7;
+	margin-left:35%; 
+	margin-top:2%;
+	font-size:20px;
+}
+.gato{
+	border: 1px solid #FE2EF7;
+	border-radius:150px;
+	width: 15%;
+	margin-left:5%; 
+	margin-top:15px;
+}
+
+}
+
