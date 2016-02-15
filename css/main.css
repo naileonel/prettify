@@ -88,6 +88,16 @@ h4{
 	margin-left:5%; 
 	margin-top:15px;
 }
-
+.fin{
+	color:#FE2EF7;
+	margin-left:45%; 
+	margin-top:10%;
+	font-size:25px;
+}
+footer{
+	background-image:url("../images/tile2.png");
+	background-size: 100%; 
+	margin-top:5%;
+	padding-left: 5%;
 }
 
